@@ -1,4 +1,4 @@
-# Secretos de un romance
+# Secretos de un romance, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Secretos de un romance |
+| **Title** | Secretos de un romance, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-un-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Secretos de un romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-romance/) |
+| **Get License** | [Official Music Licensing for Secretos de un romance, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the fire in your eyes across the crowded room
+> We moving closer while the heavy bass begins to boom
+> You pull me in and let the rhythm take control of you
+> This midnight secret is the only thing we holding to
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `e3fc052f5188053c5d11f926b895a65e0d6916406c53fa9c4e208090aa59f6f6` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Secretos de un romance, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Secretos de un romance, Vol. 2** (secretos-de-un-romance-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:40:55.338408 | `v1` | `e3fc052f5188053c5d11f926b895a65e0d6916406c53fa9c4e208090aa59f6f6` | `36b2495b77cb8f242c25c3c4dd7a9b153edde7083e7fbb9a02ee47e8c16be8b8` | `2026-06-21_secretos-de-un-romance-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

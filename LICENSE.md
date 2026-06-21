@@ -1,6 +1,6 @@
 # License
 
-**Secretos de un romance**
+**Secretos de un romance, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
